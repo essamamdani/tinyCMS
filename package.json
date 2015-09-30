@@ -1,6 +1,6 @@
 {
   "name": "tinyCMS",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "nodemon --debug ./bin/www"
@@ -12,6 +12,7 @@
     "debug": "~2.2.0",
     "express": "~4.13.1",
     "jade": "~1.11.0",
+    "mongoose": "^4.1.9",
     "morgan": "~1.6.1",
     "node-sass-middleware": "0.8.0",
     "serve-favicon": "~2.3.0"
