@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "custom.css",
+	"sources": [
+		"custom.sass"
+	],
+	"sourcesContent": [],
+	"mappings": "AAAA,UAAU,CAAC;EACT,cAAc,EAAE,UAAW,GADjB;;AAEZ,UAAU,CAAC;EACT,UAAU,EAAE,GAAI,GADN",
+	"names": []
+}

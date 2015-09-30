@@ -1,0 +1,13 @@
+extends ../layout.jade
+block content
+   .col-md-2.marginTop
+      ul.nav.nav-pills.nav-stacked
+         li.active(role="presentation")
+            a(href="#") Home
+         li(role="presentation")
+            a(href="#") Profile
+         li(role="presentation")
+            a(href="/admin/logout") Logout
+   .col-md-9.col-md-offset-1
+      h1.text-caps= "Hey " + name
+      p This is demo
